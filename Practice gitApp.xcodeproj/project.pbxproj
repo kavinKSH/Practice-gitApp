@@ -17,6 +17,7 @@
 		22D915C12B0CE75C00A0A690 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915C02B0CE75C00A0A690 /* LoginViewController.swift */; };
 		22D915C32B0CE84200A0A690 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915C22B0CE84200A0A690 /* ChatViewController.swift */; };
 		22D915C52B0CE91C00A0A690 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915C42B0CE91C00A0A690 /* ListViewController.swift */; };
+		22D915C72B0CEAB900A0A690 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915C62B0CEAB900A0A690 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		22D915C02B0CE75C00A0A690 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		22D915C22B0CE84200A0A690 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		22D915C42B0CE91C00A0A690 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		22D915C62B0CEAB900A0A690 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				22D915AA2B0CE5EB00A0A690 /* AppDelegate.swift */,
 				22D915AC2B0CE5EB00A0A690 /* SceneDelegate.swift */,
 				22D915AE2B0CE5EB00A0A690 /* ViewController.swift */,
+				22D915C62B0CEAB900A0A690 /* TableViewController.swift */,
 				22D915C02B0CE75C00A0A690 /* LoginViewController.swift */,
 				22D915BE2B0CE69C00A0A690 /* RegisterViewController.swift */,
 				22D915C22B0CE84200A0A690 /* ChatViewController.swift */,
@@ -153,6 +156,7 @@
 				22D915AF2B0CE5EB00A0A690 /* ViewController.swift in Sources */,
 				22D915AB2B0CE5EB00A0A690 /* AppDelegate.swift in Sources */,
 				22D915AD2B0CE5EB00A0A690 /* SceneDelegate.swift in Sources */,
+				22D915C72B0CEAB900A0A690 /* TableViewController.swift in Sources */,
 				22D915C12B0CE75C00A0A690 /* LoginViewController.swift in Sources */,
 				22D915C32B0CE84200A0A690 /* ChatViewController.swift in Sources */,
 				22D915BF2B0CE69C00A0A690 /* RegisterViewController.swift in Sources */,
