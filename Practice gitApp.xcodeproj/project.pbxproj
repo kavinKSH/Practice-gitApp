@@ -14,6 +14,7 @@
 		22D915B42B0CE5EC00A0A690 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22D915B32B0CE5EC00A0A690 /* Assets.xcassets */; };
 		22D915B72B0CE5EC00A0A690 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22D915B52B0CE5EC00A0A690 /* LaunchScreen.storyboard */; };
 		22D915BF2B0CE69C00A0A690 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915BE2B0CE69C00A0A690 /* RegisterViewController.swift */; };
+		22D915C12B0CE75C00A0A690 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D915C02B0CE75C00A0A690 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		22D915B62B0CE5EC00A0A690 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22D915B82B0CE5EC00A0A690 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22D915BE2B0CE69C00A0A690 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		22D915C02B0CE75C00A0A690 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				22D915AA2B0CE5EB00A0A690 /* AppDelegate.swift */,
 				22D915AC2B0CE5EB00A0A690 /* SceneDelegate.swift */,
 				22D915AE2B0CE5EB00A0A690 /* ViewController.swift */,
+				22D915C02B0CE75C00A0A690 /* LoginViewController.swift */,
 				22D915BE2B0CE69C00A0A690 /* RegisterViewController.swift */,
 				22D915B02B0CE5EB00A0A690 /* Main.storyboard */,
 				22D915B32B0CE5EC00A0A690 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				22D915AF2B0CE5EB00A0A690 /* ViewController.swift in Sources */,
 				22D915AB2B0CE5EB00A0A690 /* AppDelegate.swift in Sources */,
 				22D915AD2B0CE5EB00A0A690 /* SceneDelegate.swift in Sources */,
+				22D915C12B0CE75C00A0A690 /* LoginViewController.swift in Sources */,
 				22D915BF2B0CE69C00A0A690 /* RegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
