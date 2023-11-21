@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("This is ViewController")
+        print("This is the first branch")
     }
 }
 
